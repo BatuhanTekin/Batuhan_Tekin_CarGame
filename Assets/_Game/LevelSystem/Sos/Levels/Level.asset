@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099264cbcd3c4d7586a8366bde51109c, type: 3}
+  m_Name: Level
+  m_EditorClassIdentifier: 
+  _objectData:
+  - key: 0
+    transformSerializable:
+      position: {x: 3.4, y: 0.5, z: -0.3052}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 2.6169715, y: 1, z: 0.3897}
+    Data: 
+  - key: 0
+    transformSerializable:
+      position: {x: 1.05, y: 0.5, z: 3.14}
+      rotation: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+      scale: {x: 2.6169715, y: 1, z: 0.3897}
+    Data: 
+  - key: 0
+    transformSerializable:
+      position: {x: -3.61, y: 0.5, z: -2.81}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 2.6169715, y: 1, z: 0.3897}
+    Data: 
+  - key: 0
+    transformSerializable:
+      position: {x: -3.61, y: 0.5, z: 5.5}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 2.6169715, y: 1, z: 0.3897}
+    Data: 
+  - key: 0
+    transformSerializable:
+      position: {x: -1.91, y: 0.5, z: 0.49}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 2.6169715, y: 1, z: 0.3897}
+    Data: 
+  - key: 1
+    transformSerializable:
+      position: {x: -3.52, y: 0, z: -1.35}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    Data: '{"StartPosition":{"x":-3.690000057220459,"y":0.0,"z":-6.199999809265137},"StartRotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Order":0}'
+  - key: 1
+    transformSerializable:
+      position: {x: 3.46, y: 0, z: 6.06}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    Data: '{"StartPosition":{"x":3.2899999618530275,"y":0.0,"z":-6.089999675750732},"StartRotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Order":1}'
+  - key: 1
+    transformSerializable:
+      position: {x: 4.61, y: 0, z: 1.41}
+      rotation: {x: -0, y: 0.71639264, z: -0, w: 0.6976974}
+      scale: {x: 1, y: 1, z: 1}
+    Data: '{"StartPosition":{"x":-4.236032009124756,"y":0.0,"z":4.3248796463012699},"StartRotation":{"x":0.0,"y":0.7163926362991333,"z":0.0,"w":0.6976974010467529},"Order":2}'
+  - key: 1
+    transformSerializable:
+      position: {x: -1.94, y: 0, z: 1.21}
+      rotation: {x: 0, y: 1, z: 0, w: 0}
+      scale: {x: 1, y: 1, z: 1}
+    Data: '{"StartPosition":{"x":-4.239999771118164,"y":0.0,"z":6.5},"StartRotation":{"x":0.0,"y":0.7071068286895752,"z":0.0,"w":0.7071068286895752},"Order":3}'
+  - key: 1
+    transformSerializable:
+      position: {x: -0.53, y: 0, z: 3.75}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    Data: '{"StartPosition":{"x":1.2599999904632569,"y":0.0,"z":-0.9099998474121094},"StartRotation":{"x":0.0,"y":-0.17066732048988343,"z":0.0,"w":0.985328733921051},"Order":4}'
+  - key: 1
+    transformSerializable:
+      position: {x: 0.05, y: 0, z: 6.08}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    Data: '{"StartPosition":{"x":4.289999961853027,"y":0.0,"z":-2.9800004959106447},"StartRotation":{"x":0.0,"y":-0.7055529952049255,"z":0.0,"w":0.7086572051048279},"Order":5}'
+  - key: 1
+    transformSerializable:
+      position: {x: -3.37, y: 0, z: 3.04}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    Data: '{"StartPosition":{"x":-3.9800000190734865,"y":0.0,"z":0.029999971389770509},"StartRotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Order":6}'
+  - key: 1
+    transformSerializable:
+      position: {x: 3.41, y: 0, z: 3.89}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    Data: '{"StartPosition":{"x":-0.25,"y":0.0,"z":-6.309999465942383},"StartRotation":{"x":0.0,"y":0.0,"z":0.0,"w":1.0},"Order":7}'
+  _carBaseData:
+  - StartPosition: {x: -3.69, y: 0, z: -6.2}
+    StartRotation: {x: -0, y: -0, z: -0, w: 1}
+    Order: 0
+  - StartPosition: {x: 3.29, y: 0, z: -6.0899997}
+    StartRotation: {x: -0, y: -0, z: -0, w: 1}
+    Order: 1
+  - StartPosition: {x: -4.236032, y: 0, z: 4.3248796}
+    StartRotation: {x: -0, y: 0.71639264, z: -0, w: 0.6976974}
+    Order: 2
+  - StartPosition: {x: -4.24, y: 0, z: 6.5}
+    StartRotation: {x: -0, y: 0.7071068, z: -0, w: 0.7071068}
+    Order: 3
+  - StartPosition: {x: 1.26, y: 0, z: -0.90999985}
+    StartRotation: {x: -0, y: -0.17066732, z: -0, w: 0.98532873}
+    Order: 4
+  - StartPosition: {x: 4.29, y: 0, z: -2.9800005}
+    StartRotation: {x: -0, y: -0.705553, z: -0, w: 0.7086572}
+    Order: 5
+  - StartPosition: {x: -3.98, y: 0, z: 0.029999971}
+    StartRotation: {x: -0, y: -0, z: -0, w: 1}
+    Order: 6
+  - StartPosition: {x: -0.25, y: 0, z: -6.3099995}
+    StartRotation: {x: -0, y: -0, z: -0, w: 1}
+    Order: 7

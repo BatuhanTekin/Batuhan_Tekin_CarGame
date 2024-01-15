@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 099264cbcd3c4d7586a8366bde51109c, type: 3}
+  m_Name: Level3
+  m_EditorClassIdentifier: 
+  _objectData:
+  - key: 0
+    transformSerializable:
+      position: {x: -1, y: 0.5, z: 0.2505}
+      rotation: {x: -0, y: 0.79596335, z: -0, w: 0.6053448}
+      scale: {x: 3.3448, y: 1, z: 0.4991}
+    Data: 
+  - key: 0
+    transformSerializable:
+      position: {x: 4.87, y: 0.5, z: 0.2505}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 3.3448, y: 1, z: 0.4991}
+    Data: 
+  - key: 0
+    transformSerializable:
+      position: {x: 1.77, y: 0.5, z: 4.35}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 3.3448, y: 1, z: 0.4991}
+    Data: 
+  - key: 0
+    transformSerializable:
+      position: {x: -2.65, y: 0.5, z: -2.96}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 3.3448, y: 1, z: 0.4991}
+    Data: 
+  - key: 1
+    transformSerializable:
+      position: {x: -1.38, y: 0, z: 3.42}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    Data: '{"StartPosition":{"x":-3.2699999809265138,"y":0.0,"z":-6.189999580383301},"StartRotation":{"x":0.0,"y":0.024268152192234994,"z":0.0,"w":0.9997054934501648},"Order":0}'
+  - key: 1
+    transformSerializable:
+      position: {x: 1.67, y: 0, z: 3.4}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    Data: '{"StartPosition":{"x":2.3299999237060549,"y":0.0,"z":-4.759999752044678},"StartRotation":{"x":0.0,"y":-0.3439384996891022,"z":0.0,"w":0.9389922618865967},"Order":1}'
+  _carBaseData:
+  - StartPosition: {x: -3.27, y: 0, z: -6.1899996}
+    StartRotation: {x: -0, y: 0.024268152, z: -0, w: 0.9997055}
+    Order: 0
+  - StartPosition: {x: 2.33, y: 0, z: -4.7599998}
+    StartRotation: {x: -0, y: -0.3439385, z: -0, w: 0.93899226}
+    Order: 1

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 099264cbcd3c4d7586a8366bde51109c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PoolingKeyStore: {fileID: 11400000, guid: 8090daab5afa8448180e2fd680ca999f, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
