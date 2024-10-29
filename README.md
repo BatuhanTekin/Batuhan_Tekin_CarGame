@@ -1,6 +1,12 @@
 That's a case project
 Project Duration : 2 Days
 
+Project Defination : 
+Control car with left and right side on screen.
+Every time you reach target you will control new car
+old cars always follow the path that reach target when you controlled
+If you crash car restart.
+
 HOW TO CREATE LEVEL
 
 RIGHT CLICK TO SCENE > CREATE NEW LEVEL
