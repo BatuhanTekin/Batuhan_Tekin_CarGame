@@ -22,5 +22,3 @@ CLICK SO > EDIT LEVEL
 AFTER THE CHANGES SAVE LEVEL
 
 
-https://github.com/BatuhanTekin/Batuhan_Tekin_CarGame/assets/50333420/fedd4d56-2c97-44bf-aef9-f5dfa90d4f98
-
